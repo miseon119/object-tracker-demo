@@ -1,4 +1,4 @@
-# Object-Tracker-demo
+# Object Tracker Demo
 
 Multiple object trackers using opencv 4.5.1
 
